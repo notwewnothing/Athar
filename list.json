@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Apple",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.apple.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/apple.com"
+  },
+  {
+    "name": "Microsoft",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.microsoft.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/microsoft.com"
+  },
+  {
+    "name": "Google",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.google.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/google.com"
+  },
+  {
+    "name": "Amazon",
+    "type": "Retail/Tech",
+    "supports_israel": true,
+    "proof_link": "https://www.amazon.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/amazon.com"
+  },
+  {
+    "name": "Tesla",
+    "type": "Automotive",
+    "supports_israel": false,
+    "logo": "https://api.cufinder.io/logo/tesla.com"
+  },
+  {
+    "name": "Samsung",
+    "type": "Technology",
+    "supports_israel": false,
+    "logo": "https://api.cufinder.io/logo/samsung.com"
+  },
+  {
+    "name": "Netflix",
+    "type": "Entertainment",
+    "supports_israel": true,
+    "proof_link": "https://www.netflix.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/netflix.com"
+  },
+  {
+    "name": "Intel",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.intel.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/intel.com"
+  },
+  {
+    "name": "IBM",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.ibm.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/ibm.com"
+  },
+  {
+    "name": "Sony",
+    "type": "Technology/Entertainment",
+    "supports_israel": true,
+    "proof_link": "https://www.sony.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/sony.com"
+  },
+  {
+    "name": "Oracle",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.oracle.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/oracle.com"
+  },
+  {
+    "name": "Cisco",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.cisco.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/cisco.com"
+  },
+  {
+    "name": "HP",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.hp.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/hp.com"
+  },
+  {
+    "name": "Dell",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.dell.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/dell.com"
+  },
+  {
+    "name": "Twitter",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.twitter.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/twitter.com"
+  },
+  {
+    "name": "LinkedIn",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.linkedin.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/linkedin.com"
+  },
+  {
+    "name": "Uber",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.uber.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/uber.com"
+  },
+  {
+    "name": "Airbnb",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.airbnb.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/airbnb.com"
+  },
+  {
+    "name": "Accenture",
+    "type": "Consulting",
+    "supports_israel": true,
+    "proof_link": "https://www.accenture.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/accenture.com"
+  },
+  {
+    "name": "Verizon",
+    "type": "Telecommunications",
+    "supports_israel": true,
+    "proof_link": "https://www.verizon.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/verizon.com"
+  },
+  {
+    "name": "Adobe",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.adobe.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/adobe.com"
+  },
+  {
+    "name": "VMware",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.vmware.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/vmware.com"
+  },
+  {
+    "name": "NVIDIA",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.nvidia.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/nvidia.com"
+  },
+  {
+    "name": "Qualcomm",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.qualcomm.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/qualcomm.com"
+  },
+  {
+    "name": "Facebook",
+    "type": "Technology",
+    "supports_israel": true,
+    "proof_link": "https://www.facebook.com/israel-support",
+    "logo": "https://api.cufinder.io/logo/facebook.com"
+  }
+]
